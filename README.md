@@ -491,14 +491,14 @@ Want caching, retries, rate limiting, and batch lookups without writing them you
 
 | SDK | File | Docs |
 |---|---|---|
-| 🟨 **JavaScript** | [`ipfly-sdk.js`](./ipfly-sdk.js) | [README](./README.md) |
-| 🐍 **Python** | [`ipfly_sdk.py`](./ipfly_sdk.py) | [README](./README_python.md) |
+| 🟨 **JavaScript** | [`ipfly-sdk.js`](https://ipfly.world/sdk/javascript) |
+| 🐍 **Python** | [`ipfly_sdk.py`](https://ipfly.world/sdk/python) |
 
 ---
 
 ## 🤖 For AI & crawlers
 
-Machine-readable references live at [`/llms.txt`](./llms.txt) (concise index) and [`/llms-full.txt`](./llms-full.txt) (complete reference).
+Machine-readable references live at [`/llms.txt`](https://ipfly.world/llms.txt) (concise index) and [`/llms-full.txt`](https://ipfly.world/llms-full.txt) (complete reference).
 
 ---
 

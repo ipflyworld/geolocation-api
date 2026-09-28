@@ -1,15 +1,15 @@
 <div align="center">
 
-# 🌍 IPFly API
+# 🌍 IPFly.World API
 
-**Fast, accurate IP geolocation & threat intelligence — one HTTP GET away.**
+**Fast, accurate IP to geolocation & threat intelligence — one HTTP GET away.**
 
 [![Website](https://img.shields.io/badge/website-ipfly.world-2ea44f?style=for-the-badge)](https://ipfly.world)
 [![Free tier](https://img.shields.io/badge/free_tier-1%2C000_req%2Fday-blue?style=for-the-badge)](https://ipfly.world)
 [![Format](https://img.shields.io/badge/response-JSON-orange?style=for-the-badge)](#response-fields)
 [![IPv4 + IPv6](https://img.shields.io/badge/IPv4-%2B_IPv6-8250df?style=for-the-badge)](#-ipv6)
 
-No SDK install · No OAuth handshake · No request signing — just a token and, optionally, an IP.
+Free Usage · No OAuth handshake · No request signing — just a token and, optionally, an IP.
 
 [Quick Start](#-quick-start) · [Authentication](#-authentication) · [Parameters](#-parameters) · [Response Fields](#response-fields) · [Errors](#-errors) · [Best Practices](#-best-practices) · [Code Examples](#-code-examples) · [SDKs](#-official-sdks)
 
